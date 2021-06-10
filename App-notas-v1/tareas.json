@@ -1,0 +1,17 @@
+[
+{
+    "titulo": "Ejercicio de la calculadora",
+    "estado": "terminado"
+},
+{
+    "titulo": "Pasear al perro",
+    "estado": "pendiente"
+},
+{
+    "titulo":"Aprender a programar",
+    "estado": "en progreso"
+}
+
+
+
+]
